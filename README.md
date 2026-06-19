@@ -1,6 +1,6 @@
 # ML Notebooks
 
-Cleaned machine learning and computer vision notebooks prepared for portfolio review.
+Machine learning and computer vision notebooks prepared for portfolio review.
 
 ## Notebooks
 
